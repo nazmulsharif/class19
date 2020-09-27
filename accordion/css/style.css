@@ -1,0 +1,11 @@
+.amader-acc{
+	width: 600px;
+	margin: auto;
+}
+ .amader-acc .ui-accordion-header-active{
+ 	background-color: red;
+ }
+ .amader-acc .ui-accordion-content-active{
+ 	background-color: green;
+ 	color: #fff;
+ }
